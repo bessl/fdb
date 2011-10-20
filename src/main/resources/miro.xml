@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us"><title> Python Miro Community: New Videos</title><link href="http://python.mirocommunity.org/listing/new/" rel="alternate"></link><link href="http://python.mirocommunity.org/feeds/new/" rel="self"></link><id>http://python.mirocommunity.org/listing/new/</id><updated>2011-09-25T19:04:18+00:00</updated><opensearch:totalresults>733</opensearch:totalresults><opensearch:startindex>0</opensearch:startindex><opensearch:itemsperpage>30</opensearch:itemsperpage><entry><title>
+
+PyGotham 2011: Machine Learning for Web Developers
+</title><link href="http://python.mirocommunity.org/video/5007/pygotham-2011-machine-learning" rel="alternate"></link><updated>2011-09-25T19:04:18+00:00</updated><id>http://python.mirocommunity.org/video/5007/pygotham-2011-machine-learning</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5007/pygotham-2011-machine-learning"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5007/222x169.png?a3e74d67"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Machine Learning for Web Developers
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Al Barrentine
+&lt;/p&gt;
+&lt;p&gt;
+Machine learning deals with a class of algorithms which improve and evolve as they process more data. It has wide-ranging applications in recommendations, search, spam/fraud detection, facial recognition and other areas. The algorithms themselves will be covered but the real focus of this class is on how to use said algorithms in the web applications we work on every day. I&amp;amp;aposll try to keep the math and notation relatively light. Most of the algorithms you&amp;amp;aposll need to get started with machine learning are implemented for you in the various libraries. They comprise the "science" of machine learning and I hope you will decide to learn it, but mastering that material is a significant commitment of your time and mental energy (and has some additional prerequisites including a strong understanding of linear algebra). This class will focus on the "art" of machine learning, how to think about machine learning algorithms and integrate them into your web application.&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/machinelearning/"&gt;machinelearning&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/machine-learning-for-web-developers-5586518"&gt;http://blip.tv/pygotham/machine-learning-for-web-developers-5586518&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="423561419" href="http://blip.tv/file/get/Gloriajw-Machine_Learning_for_Web_Developersogv922.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-Machine_Learning_for_Web_Developersogv922-379.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/machine-learning-for-web-developers-5586518" rel="via"></link><media:player url="http://blip.tv/pygotham/machine-learning-for-web-developers-5586518">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-Machine_Learning_for_Web_Developersogv922.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Tmux + IPython = Awesome
+</title><link href="http://python.mirocommunity.org/video/5006/pygotham-2011-tmux-ipython-awe" rel="alternate"></link><updated>2011-09-25T17:08:22+00:00</updated><id>http://python.mirocommunity.org/video/5006/pygotham-2011-tmux-ipython-awe</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5006/pygotham-2011-tmux-ipython-awe"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5006/222x169.png?479b328b"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Tmux + IPython = Awesome
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Alexander Gaudio
+&lt;/p&gt;
+&lt;p&gt;
+This is a two part class aimed at expanding a developer's toolset with both tmux and IPython. In the first half, we will learn about tmux. I will first explain its client-server model and general architecture, compare it to GNU screen, and show some use cases. Then, we will start using it, create a customized profile, and solve a simple distributed computing problem with tmux. In the second half of this class, we will start using IPython. I will first explain what it is and review different use cases. Then, we will start using some basic commands, customize our profile and aliases, integrate python and shell scripting into the same code, and, time permitting, see some of the interactive scientific computing and interactive distributed computing possibilities. If you have one, bring a laptop with tmux and IPython already installed.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/gnuscreen/"&gt;gnuscreen&lt;/a&gt;, &lt;a href="/listing/tag/ipython/"&gt;ipython&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/tmux/"&gt;tmux&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/tmux-ipython-awesome-5586324"&gt;http://blip.tv/pygotham/tmux-ipython-awesome-5586324&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="548229264" href="http://blip.tv/file/get/Gloriajw-TmuxIPythonAwesome119.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-TmuxIPythonAwesome119-688.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/tmux-ipython-awesome-5586324" rel="via"></link><media:player url="http://blip.tv/pygotham/tmux-ipython-awesome-5586324">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-TmuxIPythonAwesome119.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Building scalable websites and API&amp;#39;s with Brubeck
+</title><link href="http://python.mirocommunity.org/video/5005/pygotham-2011-building-scalabl" rel="alternate"></link><updated>2011-09-25T09:49:45+00:00</updated><id>http://python.mirocommunity.org/video/5005/pygotham-2011-building-scalabl</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5005/pygotham-2011-building-scalabl"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5005/222x169.png?67a845bd"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Building scalable websites and APIs with Brubeck
+&lt;/p&gt;
+&lt;p&gt;
+Presented by James Dennis
+&lt;/p&gt;
+&lt;p&gt;
+In this talk I intend to teach people who know nothing about Brubeck how to build and deploy an entire site, providing all the commonly needed functionality we expect from other Python web frameworks.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/brubeck/"&gt;brubeck&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/building-scalable-websites-and-api-s-with-brubeck-5585762"&gt;http://blip.tv/pygotham/building-scalable-websites-and-api-s-with-brubeck-5585762&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="430794421" href="http://blip.tv/file/get/Gloriajw-BuildingScalableWebsitesAndAPIsWithBrubeck714.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-BuildingScalableWebsitesAndAPIsWithBrubeck714-572.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/building-scalable-websites-and-api-s-with-brubeck-5585762" rel="via"></link><media:player url="http://blip.tv/pygotham/building-scalable-websites-and-api-s-with-brubeck-5585762">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-BuildingScalableWebsitesAndAPIsWithBrubeck714.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Powerful Pythonic data analysis using pandas
+</title><link href="http://python.mirocommunity.org/video/5004/pygotham-2011-powerful-pythoni" rel="alternate"></link><updated>2011-09-25T07:20:59+00:00</updated><id>http://python.mirocommunity.org/video/5004/pygotham-2011-powerful-pythoni</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5004/pygotham-2011-powerful-pythoni"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5004/222x169.png?173c3360"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Powerful Pythonic data analysis
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Wes McKinney
+&lt;/p&gt;
+In this talk I will give an overview on the pandas data analysis package for Python, its features, and plans for future development. I'll use various interesting data sets to illustrate the features and give motivation for how the tools can be applied in a diverse set of fields.
+&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/dataanalysis/"&gt;dataanalysis&lt;/a&gt;, &lt;a href="/listing/tag/pandas/"&gt;pandas&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/powerful-pythonic-data-analysis-using-pandas-5585546"&gt;http://blip.tv/pygotham/powerful-pythonic-data-analysis-using-pandas-5585546&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="252280317" href="http://blip.tv/file/get/Gloriajw-PowerfulPythonicDataAnalysisUsingPandas989.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-PowerfulPythonicDataAnalysisUsingPandas687-843.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/powerful-pythonic-data-analysis-using-pandas-5585546" rel="via"></link><media:player url="http://blip.tv/pygotham/powerful-pythonic-data-analysis-using-pandas-5585546">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-PowerfulPythonicDataAnalysisUsingPandas989.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Go Go Gadget Python
+</title><link href="http://python.mirocommunity.org/video/5003/pygotham-2011-go-go-gadget-pyt" rel="alternate"></link><updated>2011-09-25T03:24:09+00:00</updated><id>http://python.mirocommunity.org/video/5003/pygotham-2011-go-go-gadget-pyt</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5003/pygotham-2011-go-go-gadget-pyt"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5003/222x169.png?8b7c941d"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Go Go Gadget Python
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Nicholas Waite
+&lt;/p&gt;
+&lt;p&gt;
+So you know that embedded devices are everywhere. Perhaps you've thought how nice it would be to make a Linux USB driver for some Windows-only device, or you've got something proprietary you would like to reverse-engineer and repurpose for your next big scheme. We know Python can do pretty much anything inside the computer--but how does a software person enter the world of circuits? And once you have some circuits, how can you bring the data back into your box? Bridging the worlds of hardware and software, I will show the power of PyUSB and Pyserial to pwn some sweet hardware and charm it over the USB port. From my own trials and tribulations building and hacking real devices, from a simple HID-class USB missile launcher to the custom protocol used in a complex biomedical data acquisition system, you will learn about USB packet sniffing, rapid-prototyping device drivers in python, and deciphering circuit boards and data sheets for fun &amp;amp; profit. I aim to leave you armed and ready to take on hardware of your own.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/drivers/"&gt;drivers&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/pyserial/"&gt;pyserial&lt;/a&gt;, &lt;a href="/listing/tag/pyusb/"&gt;pyusb&lt;/a&gt;, &lt;a href="/listing/tag/usb/"&gt;usb&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/go-go-gadget-python-5585288"&gt;http://blip.tv/pygotham/go-go-gadget-python-5585288&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="209351340" href="http://blip.tv/file/get/Gloriajw-GoGoGadgetPython890.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-GoGoGadgetPython896-758.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/go-go-gadget-python-5585288" rel="via"></link><media:player url="http://blip.tv/pygotham/go-go-gadget-python-5585288">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-GoGoGadgetPython890.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: BOSC: Blender Open Sound Control
+</title><link href="http://python.mirocommunity.org/video/5002/pygotham-2011-bosc-blender-ope" rel="alternate"></link><updated>2011-09-25T01:26:14+00:00</updated><id>http://python.mirocommunity.org/video/5002/pygotham-2011-bosc-blender-ope</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5002/pygotham-2011-bosc-blender-ope"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5002/222x169.png?4a0fb3f9"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Blender Open Sound Control
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Luke Schantz
+&lt;/p&gt;
+&lt;p&gt;
+Blender Open Sound Control is a project enabling the use of Open Sound Control Messages within the Blender Game Engine.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/blender/"&gt;blender&lt;/a&gt;, &lt;a href="/listing/tag/bosc/"&gt;bosc&lt;/a&gt;, &lt;a href="/listing/tag/opensoundcontrol/"&gt;opensoundcontrol&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/bosc-blender-open-sound-control-5585177"&gt;http://blip.tv/pygotham/bosc-blender-open-sound-control-5585177&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="177647896" href="http://blip.tv/file/get/Gloriajw-BOSCBlenderOpenSoundControl431.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-BOSCBlenderOpenSoundControl801-50.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/bosc-blender-open-sound-control-5585177" rel="via"></link><media:player url="http://blip.tv/pygotham/bosc-blender-open-sound-control-5585177">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-BOSCBlenderOpenSoundControl431.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Real-time Web: Gevent and Socket.io
+</title><link href="http://python.mirocommunity.org/video/5001/pygotham-2011-real-time-web-ge" rel="alternate"></link><updated>2011-09-25T00:50:09+00:00</updated><id>http://python.mirocommunity.org/video/5001/pygotham-2011-real-time-web-ge</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5001/pygotham-2011-real-time-web-ge"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5001/222x169.png?6744d3e3"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Real-time web: gevent and socket.io
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Richard D. Copeland, Jr.
+&lt;/p&gt;
+&lt;p&gt;
+There has been a lot of talk lately about how Node.js enables the real-time web, but did you know you can do the same thing with Python? This talk will show you how to use Gevent, ZeroMQ, and Socket.io to build portable Python-powered real-time web applications.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/gevent/"&gt;gevent&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/real-time/"&gt;real-time&lt;/a&gt;, &lt;a href="/listing/tag/socket.io/"&gt;socket.io&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;, &lt;a href="/listing/tag/zeromq/"&gt;zeromq&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/real-time-web-gevent-and-socket-io-5585122"&gt;http://blip.tv/pygotham/real-time-web-gevent-and-socket-io-5585122&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="179077875" href="http://blip.tv/file/get/Gloriajw-RealtimeWebGeventAndSocketio486.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-RealtimeWebGeventAndSocketio792-896.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/real-time-web-gevent-and-socket-io-5585122" rel="via"></link><media:player url="http://blip.tv/pygotham/real-time-web-gevent-and-socket-io-5585122">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-RealtimeWebGeventAndSocketio486.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: STEM coming to a stop near you
+</title><link href="http://python.mirocommunity.org/video/5000/pygotham-2011-stem-coming-to-a" rel="alternate"></link><updated>2011-09-24T21:43:58+00:00</updated><id>http://python.mirocommunity.org/video/5000/pygotham-2011-stem-coming-to-a</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5000/pygotham-2011-stem-coming-to-a"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5000/222x169.png?8547fa2e"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+STEM coming to a stop near you
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Dora Maria Abreu
+&lt;/p&gt;
+&lt;p&gt;
+STEM defined. What is STEM and what you can do to increase the STEM knowledge every where!
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/stem/"&gt;stem&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/stem-coming-to-a-stop-near-you-5584925"&gt;http://blip.tv/pygotham/stem-coming-to-a-stop-near-you-5584925&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="164055133" href="http://blip.tv/file/get/Gloriajw-STEMComingToAStopNearYou498.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-STEMComingToAStopNearYou822-694.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/stem-coming-to-a-stop-near-you-5584925" rel="via"></link><media:player url="http://blip.tv/pygotham/stem-coming-to-a-stop-near-you-5584925">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-STEMComingToAStopNearYou498.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: A Practical Guide to Non-blocking IO, Coroutines, and Concurrency
+</title><link href="http://python.mirocommunity.org/video/4999/pygotham-2011-a-practical-guid" rel="alternate"></link><updated>2011-09-24T17:35:29+00:00</updated><id>http://python.mirocommunity.org/video/4999/pygotham-2011-a-practical-guid</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4999/pygotham-2011-a-practical-guid"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/4999/222x169.png?5628b2f4"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+A practical guide to non-blocking IO, coroutines, and concurrency
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Robert Hancock
+&lt;/p&gt;
+&lt;p&gt;
+From the OS on up how coroutines and threads affect the performance of your Python programs and who to deal with them.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/concurrency/"&gt;concurrency&lt;/a&gt;, &lt;a href="/listing/tag/coroutines/"&gt;coroutines&lt;/a&gt;, &lt;a href="/listing/tag/nonblockingio/"&gt;nonblockingio&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/a-practical-guide-to-non-blocking-io-coroutines-and-concurrency-5584489"&gt;http://blip.tv/pygotham/a-practical-guide-to-non-blocking-io-coroutines-and-concurrency-5584489&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="840181581" href="http://blip.tv/file/get/Gloriajw-APracticalGuideToNonblockingIOCoroutinesAndConcurrency691.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-APracticalGuideToNonblockingIOCoroutinesAndConcurrency691-452.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/a-practical-guide-to-non-blocking-io-coroutines-and-concurrency-5584489" rel="via"></link><media:player url="http://blip.tv/pygotham/a-practical-guide-to-non-blocking-io-coroutines-and-concurrency-5584489">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-APracticalGuideToNonblockingIOCoroutinesAndConcurrency691.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Markov in Python
+</title><link href="http://python.mirocommunity.org/video/4998/pygotham-2011-markov-in-python" rel="alternate"></link><updated>2011-09-24T15:15:13+00:00</updated><id>http://python.mirocommunity.org/video/4998/pygotham-2011-markov-in-python</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4998/pygotham-2011-markov-in-python"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/4998/222x169.png?96841e53"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Markov in Python
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Keith M. Avery
+&lt;/p&gt;
+&lt;p&gt;
+A talk about the uses and implementations of Markov models in Python, with an emphasis on Markov chains. A Markov chain program for generating a language glossary from corpora will be discussed as an example application.
+&lt;/p&gt;
+&lt;p&gt;
+[VIDEO started late.]
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/markov/"&gt;markov&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/markov-in-python-5584211"&gt;http://blip.tv/pygotham/markov-in-python-5584211&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="215576894" href="http://blip.tv/file/get/Gloriajw-MarkovInPython189.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-MarkovInPython487-552.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/markov-in-python-5584211" rel="via"></link><media:player url="http://blip.tv/pygotham/markov-in-python-5584211">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-MarkovInPython189.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Intro to Data Visualization
+</title><link href="http://python.mirocommunity.org/video/4997/pygotham-2011-intro-to-data-vi" rel="alternate"></link><updated>2011-09-24T14:43:20+00:00</updated><id>http://python.mirocommunity.org/video/4997/pygotham-2011-intro-to-data-vi</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4997/pygotham-2011-intro-to-data-vi"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/4997/222x169.png?02296859"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Intro to data visualization
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Julie Steele
+&lt;/p&gt;
+&lt;p&gt;
+Have lots of data? Want to turn it into pictures to help you better understand it or explain it to others? This session will address best practices for encoding information through design, and will look at a few ways of doing this in Python.
+&lt;/p&gt;
+&lt;p&gt;
+[AUDIO: mic cuts out often - "feature" to prevent clipping.]
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/data/"&gt;data&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/visualization/"&gt;visualization&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/intro-to-data-visualization-5584155"&gt;http://blip.tv/pygotham/intro-to-data-visualization-5584155&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="176964283" href="http://blip.tv/file/get/Gloriajw-IntroToDataVisualization281.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-IntroToDataVisualization707-273.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/intro-to-data-visualization-5584155" rel="via"></link><media:player url="http://blip.tv/pygotham/intro-to-data-visualization-5584155">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-IntroToDataVisualization281.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: OpenBlock: hyperlocal django
+</title><link href="http://python.mirocommunity.org/video/4996/pygotham-2011-openblock-hyperl" rel="alternate"></link><updated>2011-09-24T14:17:59+00:00</updated><id>http://python.mirocommunity.org/video/4996/pygotham-2011-openblock-hyperl</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4996/pygotham-2011-openblock-hyperl"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/4996/222x169.png?07ff841e"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+OpenBlock: hyperlocal django
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Paul Winkler
+&lt;/p&gt;
+&lt;p&gt;
+OpenBlock (&lt;a href="http://openblockproject.org/"&gt;http://openblockproject.org/&lt;/a&gt;) is an open-source (GPL) hyperlocal news website / service built on Django. This talk would be an overview of the project: what it does, how it works, its history and future. And a brief live demo.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/django/"&gt;django&lt;/a&gt;, &lt;a href="/listing/tag/openblock/"&gt;openblock&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/openblock-hyperlocal-django-5584089"&gt;http://blip.tv/pygotham/openblock-hyperlocal-django-5584089&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="289405577" href="http://blip.tv/file/get/Gloriajw-OpenBlockHyperlocalDjango521.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-OpenBlockHyperlocalDjango305-83.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/openblock-hyperlocal-django-5584089" rel="via"></link><media:player url="http://blip.tv/pygotham/openblock-hyperlocal-django-5584089">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-OpenBlockHyperlocalDjango521.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Boosting the numbers: Python for Women and Doing Distributed Organizing of Workshops
+</title><link href="http://python.mirocommunity.org/video/4995/pygotham-2011-boosting-the-num" rel="alternate"></link><updated>2011-09-24T13:34:06+00:00</updated><id>http://python.mirocommunity.org/video/4995/pygotham-2011-boosting-the-num</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4995/pygotham-2011-boosting-the-num"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/4995/222x169.png?7b8998b1"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Boosting the Numbers: Python for Women and Doing Distributed Organizing of Workshops
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Lukas Blakk
+&lt;/p&gt;
+&lt;p&gt;
+The PyStar program is a workshop designed to teach all women (including trans women) and their friends who are looking to learn how to program in a friendly non-alpha-geek environment. The material on the &lt;a href="http://pystar.org/"&gt;http://pystar.org&lt;/a&gt; site was originally developed by the Boston Python Workshop which was held March 4/5, 2011. Currently PyStar events use a mix of badges from the PyStar site and their own curriculum. As this project continues hopefully this site will be a hub of learning materials geared at all levels of Python learners, with a focus on teaching people in a safe and supportive manner.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/pystar/"&gt;pystar&lt;/a&gt;, &lt;a href="/listing/tag/workshops/"&gt;workshops&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops-5584022"&gt;http://blip.tv/pygotham/boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops-5584022&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="187294684" href="http://blip.tv/file/get/Gloriajw-BoostingTheNumbersPythonForWomenAndDoingDistributedOrga506.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-BoostingTheNumbersPythonForWomenAndDoingDistributedOrga216-163.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops-5584022" rel="via"></link><media:player url="http://blip.tv/pygotham/boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops-5584022">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-BoostingTheNumbersPythonForWomenAndDoingDistributedOrga506.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Rapid and Scalable Development with MongoDB, PyMongo, and Ming
+</title><link href="http://python.mirocommunity.org/video/4994/pygotham-2011-rapid-and-scalab" rel="alternate"></link><updated>2011-09-24T13:06:06+00:00</updated><id>http://python.mirocommunity.org/video/4994/pygotham-2011-rapid-and-scalab</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4994/pygotham-2011-rapid-and-scalab"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/4994/222x169.png?0eae1e34"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Rapid and Scalable Development with MongoDB, PyMongo, and Ming
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Richard D. Copeland, Jr.
+&lt;/p&gt;
+&lt;p&gt;
+This intermediate-level talk will teach you techniques using the popular NoSQL database MongoDB and the Python library Ming to write maintainable, high-performance, and scalable applications. We will cover everything you need to become an effective Ming/MongoDB developer from basic PyMongo queries to high-level object-document mapping setups in Ming.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/ming/"&gt;ming&lt;/a&gt;, &lt;a href="/listing/tag/mongodb/"&gt;mongodb&lt;/a&gt;, &lt;a href="/listing/tag/nosql/"&gt;nosql&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/rapid-and-scalable-development-with-mongodb-pymongo-and-ming-5584000"&gt;http://blip.tv/pygotham/rapid-and-scalable-development-with-mongodb-pymongo-and-ming-5584000&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="234401122" href="http://blip.tv/file/get/Gloriajw-RapidAndScalableDevelopmentWithMongoDBPyMongoAndMing472.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-RapidAndScalableDevelopmentWithMongoDBPyMongoAndMing226-212.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/rapid-and-scalable-development-with-mongodb-pymongo-and-ming-5584000" rel="via"></link><media:player url="http://blip.tv/pygotham/rapid-and-scalable-development-with-mongodb-pymongo-and-ming-5584000">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-RapidAndScalableDevelopmentWithMongoDBPyMongoAndMing472.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Art, Cultural Concern, and Computer Code
+</title><link href="http://python.mirocommunity.org/video/4993/pygotham-2011-art-cultural-con" rel="alternate"></link><updated>2011-09-24T10:15:56+00:00</updated><id>http://python.mirocommunity.org/video/4993/pygotham-2011-art-cultural-con</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4993/pygotham-2011-art-cultural-con"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/4993/222x169.png?5e3cc7f5"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Art, Cultural Concern, and Computer Code
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Annina Rüst
+&lt;/p&gt;
+&lt;p&gt;
+I will talk about software as art and software and politics using some of my own art+tech projects. This will be followed by an audience participation segment.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/art/"&gt;art&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/software/"&gt;software&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/art-cultural-concern-and-computer-code-5583784"&gt;http://blip.tv/pygotham/art-cultural-concern-and-computer-code-5583784&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="208724098" href="http://blip.tv/file/get/Gloriajw-ArtCulturalConcernAndComputerCode967.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-ArtCulturalConcernAndComputerCode415-691.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/art-cultural-concern-and-computer-code-5583784" rel="via"></link><media:player url="http://blip.tv/pygotham/art-cultural-concern-and-computer-code-5583784">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-ArtCulturalConcernAndComputerCode967.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: SQLAlchemy, an Architectural Retrospective
+</title><link href="http://python.mirocommunity.org/video/4992/pygotham-2011-sqlalchemy-an-ar" rel="alternate"></link><updated>2011-09-24T09:45:00+00:00</updated><id>http://python.mirocommunity.org/video/4992/pygotham-2011-sqlalchemy-an-ar</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4992/pygotham-2011-sqlalchemy-an-ar"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/4992/222x169.png?a3e74d67"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+SQLAlchemy, an Architectural Retrospective
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Mike Bayer
+&lt;/p&gt;
+&lt;p&gt;
+In this talk I'll walk through some highlights of SQLAlchemy internal design and methodology, based on the upcoming chapter for the "Architecture of Open Source Applications" book. We'll have a little bit of SQLAlchemy philosophy, an overview of the Core, and then a 500-ft view of how the ORM goes about things, with plenty of cool looking diagrams.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/sqlalchemy/"&gt;sqlalchemy&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/sqlalchemy-an-architectural-retrospective-5583765"&gt;http://blip.tv/pygotham/sqlalchemy-an-architectural-retrospective-5583765&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="275140688" href="http://blip.tv/file/get/Gloriajw-SQLAlchemyAnArchitecturalRetrospective545.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-SQLAlchemyAnArchitecturalRetrospective499-683.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/sqlalchemy-an-architectural-retrospective-5583765" rel="via"></link><media:player url="http://blip.tv/pygotham/sqlalchemy-an-architectural-retrospective-5583765">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-SQLAlchemyAnArchitecturalRetrospective545.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: A Summer in the Wild
+</title><link href="http://python.mirocommunity.org/video/5207/djangocon-2011-a-summer-in-the" rel="alternate"></link><updated>2011-09-24T05:28:53+00:00</updated><id>http://python.mirocommunity.org/video/5207/djangocon-2011-a-summer-in-the</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5207/djangocon-2011-a-summer-in-the"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5207/222x169.png?15f79669"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+A summer in the wild
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Alex Gaynor
+&lt;/p&gt;
+&lt;p&gt;
+I've spent this past summer away from Django, working for Quora, venturing into the depths of a foreign codebase, and making it faster by running on PyPy. This talk will feature the lessons I've learned about Django, PyPy, and web development in general.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/django/"&gt;django&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/pypy/"&gt;pypy&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/a-summer-in-the-wild-5583459"&gt;http://blip.tv/djangocon/a-summer-in-the-wild-5583459&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="171183356" href="http://blip.tv/file/get/Robertlofthouse-ASummerInTheWild903.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-ASummerInTheWild519-270.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/a-summer-in-the-wild-5583459" rel="via"></link><media:player url="http://blip.tv/djangocon/a-summer-in-the-wild-5583459">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-ASummerInTheWild903.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Taming dependencies with pip
+</title><link href="http://python.mirocommunity.org/video/5206/djangocon-2011-taming-dependen" rel="alternate"></link><updated>2011-09-23T23:21:16+00:00</updated><id>http://python.mirocommunity.org/video/5206/djangocon-2011-taming-dependen</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5206/djangocon-2011-taming-dependen"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5206/222x169.png?076a15f0"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Taming dependencies with pip
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Carl Meyer
+&lt;/p&gt;
+&lt;p&gt;
+Dependency management sucks. Pip provides some options for making it suck a bit less, but not all of them are immediately obvious. This talk will cover a number of strategies for making your deployments faster and more reliable, and demonstrate how to implement them in practice.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/dependencies/"&gt;dependencies&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/pip/"&gt;pip&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/taming-dependencies-with-pip-5582996"&gt;http://blip.tv/djangocon/taming-dependencies-with-pip-5582996&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="217127626" href="http://blip.tv/file/get/Robertlofthouse-TamingDependenciesWithPip410.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TamingDependenciesWithPip630-709.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/taming-dependencies-with-pip-5582996" rel="via"></link><media:player url="http://blip.tv/djangocon/taming-dependencies-with-pip-5582996">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-TamingDependenciesWithPip410.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+PyGotham 2011: Plover: Thought to Text at 240 WPM
+</title><link href="http://python.mirocommunity.org/video/4991/pygotham-2011-plover-thought-t" rel="alternate"></link><updated>2011-09-23T18:17:01+00:00</updated><id>http://python.mirocommunity.org/video/4991/pygotham-2011-plover-thought-t</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/4991/pygotham-2011-plover-thought-t"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/4991/222x169.png?a3e74d67"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Plover: Thought to Text at 240 WPM
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Mirabai Knight 
+&lt;/p&gt;
+&lt;p&gt;
+Realtime stenography lets you type as quickly as you can speak, but until now it's required ridiculously expensive hardware and software. Plover is the world's first open source steno software and works with a $45 keyboard.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/1388"&gt;gloriajw&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/pygotham-2011"&gt;PyGotham 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/plover/"&gt;plover&lt;/a&gt;, &lt;a href="/listing/tag/pygotham/"&gt;pygotham&lt;/a&gt;, &lt;a href="/listing/tag/pygotham2011/"&gt;pygotham2011&lt;/a&gt;, &lt;a href="/listing/tag/stenography/"&gt;stenography&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/pygotham/plover-thought-to-text-at-240-wpm-5582245"&gt;http://blip.tv/pygotham/plover-thought-to-text-at-240-wpm-5582245&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="182055374" href="http://blip.tv/file/get/Gloriajw-PloverThoughtToTextAt240WPM591.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Gloriajw-PloverThoughtToTextAt240WPM420-809.jpg"></media:thumbnail><link href="http://blip.tv/pygotham/plover-thought-to-text-at-240-wpm-5582245" rel="via"></link><media:player url="http://blip.tv/pygotham/plover-thought-to-text-at-240-wpm-5582245">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Gloriajw-PloverThoughtToTextAt240WPM591.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Pinax after Three Years: Lessons Learnt and the Way Forward
+</title><link href="http://python.mirocommunity.org/video/5203/djangocon-2011-pinax-after-thr" rel="alternate"></link><updated>2011-09-22T13:30:00+00:00</updated><id>http://python.mirocommunity.org/video/5203/djangocon-2011-pinax-after-thr</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5203/djangocon-2011-pinax-after-thr"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5203/222x169.png?1691db23"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Pinax after three years: Lessons learnt and the way forward
+&lt;/p&gt;
+&lt;p&gt;
+Presented by James Tauber
+&lt;/p&gt;
+&lt;p&gt;
+The Pinax platform has had its ups and downs since it was launched in 2008. People either love it or just don't get it. About the only thing everyone agrees on is that it doesn't seem to be progressing as fast as it once did. This talk will take a fresh look at the goals of Pinax, what we did well, what we didn't do so well and what we're (slowly) doing to fix it.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/pinax/"&gt;pinax&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/pinax-after-three-years-lessons-learnt-and-the-way-forward-5577420"&gt;http://blip.tv/djangocon/pinax-after-three-years-lessons-learnt-and-the-way-forward-5577420&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="212610186" href="http://blip.tv/file/get/Robertlofthouse-PinaxAfterThreeYearsLessonsLearntAndTheWayForward672.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-PinaxAfterThreeYearsLessonsLearntAndTheWayForward913-612.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/pinax-after-three-years-lessons-learnt-and-the-way-forward-5577420" rel="via"></link><media:player url="http://blip.tv/djangocon/pinax-after-three-years-lessons-learnt-and-the-way-forward-5577420">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-PinaxAfterThreeYearsLessonsLearntAndTheWayForward672.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Testing: The Developer Strikes Back
+</title><link href="http://python.mirocommunity.org/video/5202/djangocon-2011-testing-the-dev" rel="alternate"></link><updated>2011-09-22T12:58:14+00:00</updated><id>http://python.mirocommunity.org/video/5202/djangocon-2011-testing-the-dev</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5202/djangocon-2011-testing-the-dev"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5202/222x169.png?82b5f043"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Testing: The Developer Strikes Back
+&lt;/p&gt;
+&lt;p&gt;
+Sandy Strong
+&lt;/p&gt;
+&lt;p&gt;
+“Code not tested is broken by design” - Jacob Kaplan-Moss
+&lt;/p&gt;
+&lt;p&gt;
+Every programming project has unique testing needs. It’s not always easy to understand what those needs are, or how to write tests that satisfy them. One of our goals as developers is to write tests that minimize failures in production that can cost our companies time, money, resources, and in many cases, hours of sleep!
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/coverage.py/"&gt;coverage.py&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/jenkins/"&gt;jenkins&lt;/a&gt;, &lt;a href="/listing/tag/testing/"&gt;testing&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/testing-the-developer-strikes-back-5577365"&gt;http://blip.tv/djangocon/testing-the-developer-strikes-back-5577365&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="199243351" href="http://blip.tv/file/get/Robertlofthouse-TestingTheDeveloperStrikesBack536.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TestingTheDeveloperStrikesBack360-494.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/testing-the-developer-strikes-back-5577365" rel="via"></link><media:player url="http://blip.tv/djangocon/testing-the-developer-strikes-back-5577365">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-TestingTheDeveloperStrikesBack536.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Cache rules everything around me
+</title><link href="http://python.mirocommunity.org/video/5200/djangocon-2011-cache-rules-eve" rel="alternate"></link><updated>2011-09-21T12:37:09+00:00</updated><id>http://python.mirocommunity.org/video/5200/djangocon-2011-cache-rules-eve</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5200/djangocon-2011-cache-rules-eve"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5200/222x169.png?d73f54cd"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Cache rules everything around me
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Jacob Burch, Noah Silas
+&lt;/p&gt;
+&lt;p&gt;
+This talk aims to briefly introduce the core concepts of caching and covers the best practices of using Django’s cache backend.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/cache/"&gt;cache&lt;/a&gt;, &lt;a href="/listing/tag/caching/"&gt;caching&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/memcache/"&gt;memcache&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/cache-rules-everything-around-me-5573909"&gt;http://blip.tv/djangocon/cache-rules-everything-around-me-5573909&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="59299196" href="http://blip.tv/file/get/Robertlofthouse-CacheRulesEverythingAroundMe667.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-CacheRulesEverythingAroundMe471-781.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/cache-rules-everything-around-me-5573909" rel="via"></link><media:player url="http://blip.tv/djangocon/cache-rules-everything-around-me-5573909">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-CacheRulesEverythingAroundMe667.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Making interactive maps for the web
+</title><link href="http://python.mirocommunity.org/video/5199/djangocon-2011-making-interact" rel="alternate"></link><updated>2011-09-21T12:25:33+00:00</updated><id>http://python.mirocommunity.org/video/5199/djangocon-2011-making-interact</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5199/djangocon-2011-making-interact"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5199/222x169.png?b892c8c6"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Making Interactive Maps for the Web
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Zain Memon
+&lt;/p&gt;
+&lt;p&gt;
+When tasked with displaying geo-data, most developers decide to put some big red markers on an embeddable Google Map and call it a day. If you're interested in creating maps that are more beautiful, more interactive, and more usable, this talk is for you.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/geodjango/"&gt;geodjango&lt;/a&gt;, &lt;a href="/listing/tag/gis/"&gt;gis&lt;/a&gt;, &lt;a href="/listing/tag/maps/"&gt;maps&lt;/a&gt;, &lt;a href="/listing/tag/polymaps/"&gt;polymaps&lt;/a&gt;, &lt;a href="/listing/tag/tilestash/"&gt;tilestash&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/making-interactive-maps-for-the-web-5573888"&gt;http://blip.tv/djangocon/making-interactive-maps-for-the-web-5573888&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="75670980" href="http://blip.tv/file/get/Robertlofthouse-MakingInteractiveMapsForTheWeb364.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-MakingInteractiveMapsForTheWeb699-509.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/making-interactive-maps-for-the-web-5573888" rel="via"></link><media:player url="http://blip.tv/djangocon/making-interactive-maps-for-the-web-5573888">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-MakingInteractiveMapsForTheWeb364.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Y&amp;#39;all Wanna Scrape with Us? Content Ain&amp;#39;t a Thing : Web Scraping With Our Favorite Python Libraries
+</title><link href="http://python.mirocommunity.org/video/5198/djangocon-2011-yall-wanna-scra" rel="alternate"></link><updated>2011-09-21T07:30:16+00:00</updated><id>http://python.mirocommunity.org/video/5198/djangocon-2011-yall-wanna-scra</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5198/djangocon-2011-yall-wanna-scra"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5198/222x169.png?dcba2c9e"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Y'all Wanna Scrape with Us?  Content Ain't a Thing: Web Scraping With Our Favorite Python Libraries
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Katharine Jarmul
+&lt;/p&gt;
+&lt;p&gt;
+Love or hate them, the top python scraping libraries have some hidden gems and tricks that you can use to enhance, update and diversify your Django models. This talk will teach you more advanced techniques to aggregate content from RSS feeds, Twitter, Tumblr and normal old web sites for your Django projects.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/lxml/"&gt;lxml&lt;/a&gt;, &lt;a href="/listing/tag/scraping/"&gt;scraping&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/y-all-wanna-scrape-with-us-content-ain-t-a-thing-web-scraping-with-our-favorite-python-libraries-5573401"&gt;http://blip.tv/djangocon/y-all-wanna-scrape-with-us-content-ain-t-a-thing-web-scraping-with-our-favorite-python-libraries-5573401&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="67250215" href="http://blip.tv/file/get/Robertlofthouse-YallWannaScrapeWithUsContentAintAThingWebScrapingWit959.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-YallWannaScrapeWithUsContentAintAThingWebScrapingWit952-115.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/y-all-wanna-scrape-with-us-content-ain-t-a-thing-web-scraping-with-our-favorite-python-libraries-5573401" rel="via"></link><media:player url="http://blip.tv/djangocon/y-all-wanna-scrape-with-us-content-ain-t-a-thing-web-scraping-with-our-favorite-python-libraries-5573401">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-YallWannaScrapeWithUsContentAintAThingWebScrapingWit959.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Deployment, Daemons and Datacenters
+</title><link href="http://python.mirocommunity.org/video/5197/djangocon-2011-deployment-daem" rel="alternate"></link><updated>2011-09-21T07:18:58+00:00</updated><id>http://python.mirocommunity.org/video/5197/djangocon-2011-deployment-daem</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5197/djangocon-2011-deployment-daem"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5197/222x169.png?8a96e79f"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Deployment, Daemons, and Datacenters
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Andrew Godwin
+&lt;/p&gt;
+&lt;p&gt;
+A tour through the systems that power &lt;a href="http://ep.io/"&gt;ep.io&lt;/a&gt;, the Python hosting platform, from the array of daemons powering the system, to how redundancy is set up, and also covering general best practices for hosting Django sites yourself.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/daemons/"&gt;daemons&lt;/a&gt;, &lt;a href="/listing/tag/datacenters/"&gt;datacenters&lt;/a&gt;, &lt;a href="/listing/tag/deployment/"&gt;deployment&lt;/a&gt;, &lt;a href="/listing/tag/django/"&gt;django&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/ep.io/"&gt;ep.io&lt;/a&gt;, &lt;a href="/listing/tag/epio/"&gt;epio&lt;/a&gt;, &lt;a href="/listing/tag/hosting/"&gt;hosting&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/deployment-daemons-and-datacenters-5573370"&gt;http://blip.tv/djangocon/deployment-daemons-and-datacenters-5573370&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="87549023" href="http://blip.tv/file/get/Robertlofthouse-DeploymentDaemonsAndDatacenters356.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-DeploymentDaemonsAndDatacenters670-810.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/deployment-daemons-and-datacenters-5573370" rel="via"></link><media:player url="http://blip.tv/djangocon/deployment-daemons-and-datacenters-5573370">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-DeploymentDaemonsAndDatacenters356.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: RTFM -- wRite The Friendly Manual
+</title><link href="http://python.mirocommunity.org/video/5196/djangocon-2011-rtfm-write-the-" rel="alternate"></link><updated>2011-09-21T07:06:49+00:00</updated><id>http://python.mirocommunity.org/video/5196/djangocon-2011-rtfm-write-the-</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5196/djangocon-2011-rtfm-write-the-"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5196/222x169.png?c2e070f3"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+RTFM - wRite The Friendly Manual
+&lt;/p&gt;
+&lt;p&gt;
+Presented by James Bennett
+&lt;/p&gt;
+&lt;p&gt;
+An introduction to writing great documentation. Not just in the "here's some tools and how to use them" sense, but in the "here's why you should care about documentation" sense and the "how to write things people will read" sense.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/django/"&gt;django&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/docs/"&gt;docs&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;, &lt;a href="/listing/tag/writing-great-docs/"&gt;writing-great-docs&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/rtfm-write-the-friendly-manual-5573341"&gt;http://blip.tv/djangocon/rtfm-write-the-friendly-manual-5573341&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="89384847" href="http://blip.tv/file/get/Robertlofthouse-RTFMWRiteTheFriendlyManual937.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-RTFMWRiteTheFriendlyManual657-381.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/rtfm-write-the-friendly-manual-5573341" rel="via"></link><media:player url="http://blip.tv/djangocon/rtfm-write-the-friendly-manual-5573341">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-RTFMWRiteTheFriendlyManual937.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Advanced security topics
+</title><link href="http://python.mirocommunity.org/video/5195/djangocon-2011-advanced-securi" rel="alternate"></link><updated>2011-09-21T06:55:20+00:00</updated><id>http://python.mirocommunity.org/video/5195/djangocon-2011-advanced-securi</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5195/djangocon-2011-advanced-securi"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5195/222x169.png?44fe7568"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Advanced security topics
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Paul McMillan
+&lt;/p&gt;
+&lt;p&gt;
+An in-depth look (with demonstrations) at the how and why of several advanced security topics. Discussion of ways to improve security of the framework moving forward.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/django/"&gt;django&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/security/"&gt;security&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/advanced-security-topics-5573326"&gt;http://blip.tv/djangocon/advanced-security-topics-5573326&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="76996528" href="http://blip.tv/file/get/Robertlofthouse-AdvancedSecurityTopics728.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-AdvancedSecurityTopics290-576.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/advanced-security-topics-5573326" rel="via"></link><media:player url="http://blip.tv/djangocon/advanced-security-topics-5573326">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-AdvancedSecurityTopics728.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Teaching Django to Comrades
+</title><link href="http://python.mirocommunity.org/video/5194/djangocon-2011-teaching-django" rel="alternate"></link><updated>2011-09-21T06:43:55+00:00</updated><id>http://python.mirocommunity.org/video/5194/djangocon-2011-teaching-django</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5194/djangocon-2011-teaching-django"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5194/222x169.png?c8a2689c"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Teaching Django to Comrades
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Issac Kelly
+&lt;/p&gt;
+&lt;p&gt;
+Inevitably you're going to run into somebody who wants to learn Django, or maybe both Python and Django. This talk will help you make it less painful for them.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/basic/"&gt;basic&lt;/a&gt;, &lt;a href="/listing/tag/django/"&gt;django&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/learning/"&gt;learning&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/teaching-django-to-comrades-5573306"&gt;http://blip.tv/djangocon/teaching-django-to-comrades-5573306&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="73288429" href="http://blip.tv/file/get/Robertlofthouse-TeachingDjangoToComrades410.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-TeachingDjangoToComrades893-851.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/teaching-django-to-comrades-5573306" rel="via"></link><media:player url="http://blip.tv/djangocon/teaching-django-to-comrades-5573306">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-TeachingDjangoToComrades410.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Advanced Django Form Usage
+</title><link href="http://python.mirocommunity.org/video/5193/djangocon-2011-advanced-django" rel="alternate"></link><updated>2011-09-21T06:34:26+00:00</updated><id>http://python.mirocommunity.org/video/5193/djangocon-2011-advanced-django</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5193/djangocon-2011-advanced-django"&gt;
+        &lt;img src="http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/5193/222x169.png?41c031b0"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Advanced Django Form Usage
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Daniel Greenfeld, Miguel Araujo
+&lt;/p&gt;
+&lt;p&gt;
+Django forms are really powerful but there are edge cases that can cause a bit of anguish. This talk will go over how to handle many common solutions not currently described in the core documentation. It will also cover some useful third-party libraries and will end with clarifications about what the state of form features will be in Django 1.4.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/django/"&gt;django&lt;/a&gt;, &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/forms/"&gt;forms&lt;/a&gt;, &lt;a href="/listing/tag/web/"&gt;web&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/advanced-django-form-usage-5573287"&gt;http://blip.tv/djangocon/advanced-django-form-usage-5573287&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="103742432" href="http://blip.tv/file/get/Robertlofthouse-AdvancedDjangoFormUsage665.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-AdvancedDjangoFormUsage262-618.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/advanced-django-form-usage-5573287" rel="via"></link><media:player url="http://blip.tv/djangocon/advanced-django-form-usage-5573287">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-AdvancedDjangoFormUsage665.ogv"
+  })
+&lt;/script&gt;</media:player></entry><entry><title>
+
+DjangoCon 2011: Keynote - Glyph Lefkowitz
+</title><link href="http://python.mirocommunity.org/video/5192/djangocon-2011-keynote-glyph-l" rel="alternate"></link><updated>2011-09-21T06:20:48+00:00</updated><id>http://python.mirocommunity.org/video/5192/djangocon-2011-keynote-glyph-l</id><summary type="html">
+
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td width="230" valign="top"&gt;
+      &lt;a href="/video/5192/djangocon-2011-keynote-glyph-l"&gt;
+        &lt;img src="http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/5192/222x169.png?6062690a"&gt;
+      &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td width="300" valign="top"&gt;
+      &lt;div class="miro-community-description"&gt;&lt;p&gt;
+Keynote
+&lt;/p&gt;
+&lt;p&gt;
+Presented by Glyph Lefkowitz
+&lt;/p&gt;
+&lt;p&gt;
+Talks about using Python for everything in a project and the
+difficulties of using different non-Python-based things in your
+deployment.
+&lt;/p&gt;&lt;/div&gt;
+    &lt;/td&gt;
+    &lt;td width="250" valign="top"&gt;
+      &lt;div&gt;&lt;b&gt;By:&lt;/b&gt; &lt;a href="/author/14"&gt;robertlofthouse&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Categories:&lt;/b&gt; &lt;a href="/category/djangocon-2011"&gt;DjangoCon 2011&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Tags:&lt;/b&gt; &lt;a href="/listing/tag/djangocon/"&gt;djangocon&lt;/a&gt;, &lt;a href="/listing/tag/djangocon2011/"&gt;djangocon2011&lt;/a&gt;, &lt;a href="/listing/tag/keynote/"&gt;keynote&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Original link:&lt;/b&gt;&lt;a href="http://blip.tv/djangocon/keynote-glyph-lefkowitz-5573264"&gt;http://blip.tv/djangocon/keynote-glyph-lefkowitz-5573264&lt;/a&gt;&lt;/div&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</summary><link length="69364623" href="http://blip.tv/file/get/Robertlofthouse-KeynoteGlyphLefkowitz216.ogv" type="video/ogg" rel="enclosure"></link><media:thumbnail url="http://a.images.blip.tv/Robertlofthouse-KeynoteGlyphLefkowitz810-708.jpg"></media:thumbnail><link href="http://blip.tv/djangocon/keynote-glyph-lefkowitz-5573264" rel="via"></link><media:player url="http://blip.tv/djangocon/keynote-glyph-lefkowitz-5573264">&lt;script type="text/javascript" src="http://s3.www.universalsubtitles.org/embed.js"&gt;
+ ({
+       video_url: "http://blip.tv/file/get/Robertlofthouse-KeynoteGlyphLefkowitz216.ogv"
+  })
+&lt;/script&gt;</media:player></entry></feed>
