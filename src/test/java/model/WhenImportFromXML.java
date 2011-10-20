@@ -1,5 +1,6 @@
 package model;
 
+import java.io.InputStream;
 import java.util.LinkedList;
 
 import junit.framework.Assert;
@@ -29,7 +30,7 @@ public class WhenImportFromXML {
 	  
 	  @Test
 	  public void withValidDataWeShouldBeAbleToGetAListOfMovieObjects() {
-		  XMLImport importer = new XMLImport("/Users/bee/ws/eclipse/filmdatenbank/src/main/resources/miro.xml");
+		  XMLImport importer = new XMLImport(getClass().getClassLoader().getResource("miro.xml").getPath());
 		  LinkedList<Movie> movies = importer.getMovies();
 		  Assert.assertEquals("http://python.mirocommunity.org/video/5007/pygotham-2011-machine-learning", movies.get(0).getUrl());
 		  Assert.assertEquals("http://a.images.blip.tv/Gloriajw-TmuxIPythonAwesome119-688.jpg", movies.get(1).getUrlThumbnail());
