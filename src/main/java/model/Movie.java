@@ -1,5 +1,7 @@
 package model;
 
+import java.util.LinkedList;
+
 public class Movie {
 
 	private String title;
@@ -9,9 +11,11 @@ public class Movie {
 	private String urlPlayer;
 	private String slug;
 	private int rating;
+	private LinkedList<Tag> tags;
 
 	public Movie() {
 		this.rating = 3;
+		this.tags = new LinkedList<Tag>();
 	}
 
 	public String getTitle() {
@@ -84,4 +88,14 @@ public class Movie {
 			slug = slug.substring(0, 20);
 	}
 
+	public void addTag(Tag tag) {
+		if (tag == null)
+			throw new IllegalArgumentException("Tag ist kein gültiges Objekt");
+		tags.add(tag);
+	}
+
+	public LinkedList<Tag> getTags(){
+		return tags;
+	}
+	
 }
