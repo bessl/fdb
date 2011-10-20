@@ -22,7 +22,7 @@ public class WhenAddingTagsToAMovie {
 
 	@Test
 	public void aNewMovieShouldNotHaveAnyTags() {		
-		assertThat("Add Tags", movie.getTags().size(), equalTo(0));
+		assertThat("No Tags", movie.getTags().size(), equalTo(0));
 	}
 	
 	@Test
@@ -34,5 +34,10 @@ public class WhenAddingTagsToAMovie {
 		Assert.assertEquals("Programming", movie.getTags().get(0).getTitle());
 		Assert.assertEquals("Conference", movie.getTags().get(1).getTitle());
 	}
+	
+	  @Test(expected = IllegalArgumentException.class)
+	  public void withWrongTagWeShouldGetAnException() {
+		  movie.addTag(null);
+	  }
 
 }
