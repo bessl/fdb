@@ -21,13 +21,8 @@ public class Tag {
 	public String getSlug() {
 		return slug;
 	}
-	public void setSlug() {
-		slug = getTitle().toLowerCase();
-		slug = slug.replace(" ", "-");
-		slug = slug.replace("--", "-");
-		slug = slug.replaceAll("[^a-z0-9-]", "");
-		if (slug.length() > 10) 
-			slug = slug.substring(0, 10);
+	private void setSlug() {
+		slug = Helpers.slugify(getTitle());
 	}
 
 }

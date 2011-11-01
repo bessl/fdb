@@ -80,12 +80,7 @@ public class Movie {
 	}
 	
 	private void setSlug() {
-		slug = title.toLowerCase();
-		slug = slug.replace(" ", "-");
-		slug = slug.replace("--", "-");
-		slug = slug.replaceAll("[^a-z0-9-]", "");
-		if (slug.length() > 20) 
-			slug = slug.substring(0, 20);
+		slug = Helpers.slugify(getTitle());
 	}
 
 	public void addTag(Tag tag) {

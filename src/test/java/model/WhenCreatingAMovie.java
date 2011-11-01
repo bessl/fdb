@@ -19,8 +19,8 @@ public class WhenCreatingAMovie {
 	@Test
 	public void movieTitleShouldSetASlugAutomatically() {
 		String[][] titles = {
-				{ "Spam Terry Jones, Michael Spam Palin, John Spam", "spam-terry-jones-mic", },
-				{ "&*#$KADJA23SDdadsa@#$#$", "kadja23sddadsa" } ,
+				{ "Spam Terry Jones, Michael Spam Palin, John Spam", "spam-terry", },
+				{ "&*#$KADJA23SDdadsa@#$#$", "kadja23sdd" } ,
 				{ "x  Kcd", "x-kcd" } 
 		};
 		
