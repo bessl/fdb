@@ -13,10 +13,10 @@ import model.Movie;
 import org.junit.Before;
 import org.junit.Test;
 
-import repo.XMLImport;
+import repo.MovieDomRepoImpl;
 
 
-public class WhenImportFromXML {
+public class WhenMovieDomRepoImp {
 
 	  @Before
 	  public void setUp() throws Exception {
@@ -26,7 +26,7 @@ public class WhenImportFromXML {
 	  public void withValidDataWeShouldBeAbleToGetAListOfMovieObjects() {
 		  File xmlfile = new File(getClass().getClassLoader().getResource("miro.xml").getPath());
 			  
-		  XMLImport importer = new XMLImport();
+		  MovieDomRepoImpl importer = new MovieDomRepoImpl();
 		  importer.findAll(xmlfile);
 		  LinkedList<Movie> movies = importer.getMovies();
 	

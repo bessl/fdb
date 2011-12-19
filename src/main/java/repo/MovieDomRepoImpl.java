@@ -13,11 +13,11 @@ import org.w3c.dom.Element;
 import java.io.File;
 import java.util.LinkedList;
 
-public class XMLImport {
+public class MovieDomRepoImpl {
 
 	private LinkedList<Movie> movies;
 
-	public XMLImport() {
+	public MovieDomRepoImpl() {
 		movies = new LinkedList<Movie>();
 	}
 
