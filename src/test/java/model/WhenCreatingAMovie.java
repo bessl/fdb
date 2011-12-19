@@ -2,52 +2,34 @@ package model;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
 
 public class WhenCreatingAMovie {
 
-	private Movie movie;
+	private Movie m1, m2, m3;
 
 	@Before
 	public void setUp() throws Exception {
-		movie = new Movie();
+		m1 = new Movie();
+		m1.setTitle("bla");
+		m2 = new Movie();
+		m2.setTitle("bla 2");
+		m3 = new Movie();
+		m3.setTitle("bla 3");
+
 	}
 
-	// Slug - automatisch URL aus Titel erstellen.
 	@Test
-	public void movieTitleShouldSetASlugAutomatically() {
-		String[][] titles = {
-				{ "Spam Terry Jones, Michael Spam Palin, John Spam", "spam-terry", },
-				{ "&*#$KADJA23SDdadsa@#$#$", "kadja23sdd" } ,
-				{ "x  Kcd", "x-kcd" } 
-		};
+	public void addMoviesToPlaylist() {
+		Playlist pl = new Playlist("Meine neue Playlist");
+		pl.addMovie(m1);
+		pl.addMovie(m2);
+		pl.addMovie(m3);
 		
-		for (String[] t : titles) {
-			movie.setTitle(t[0]);
-			assertThat(movie.getSlug(), is(equalTo(t[1])));
-		}
-
-	}
-
-	// Rating
-
-	@Test(expected = IllegalArgumentException.class)
-	public void withWrongRatingValueWeShouldGetAnException() {
-		movie.setRating(1000);
-	}
-
-	@Test
-	public void newMovieShouldHaveDefaultRating() {
-		assertThat("Default Rating", movie.getRating(), equalTo(3));
-	}
-
-	@Test
-	public void updateMovieRating() {
-		movie.setRating(2);
-
-		assertThat("Update Rating", movie.getRating(), equalTo(2));
+		assertEquals(3, pl.getMovies().size());
 	}
 
 }
