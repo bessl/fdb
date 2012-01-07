@@ -5,9 +5,7 @@ import java.util.List;
 import model.Movie;
 
 
-public interface MovieDAO {
-	int save(Connection connection, Movie movie);
-	int delete(Connection connection, Movie movie);
-	Movie findById(Connection connection, Long id);
-	List<Movie> findAll(Connection con);
+public interface MovieDAO extends BaseDAO<Movie>{
+	public List<Movie> findByTitle(Connection con, String title);
+	public List<Movie> searchInSummary(Connection con, String search);
 }
