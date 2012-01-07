@@ -1,5 +1,6 @@
 package model;
 
+import java.io.Serializable;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -7,8 +8,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Tag {
+public class Tag extends ModelBase implements Serializable {
 
+	private static final long serialVersionUID = 1L;
 	private static Connection con;
 	private String title;
 	private String slug;

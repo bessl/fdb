@@ -1,9 +1,11 @@
 package model;
 
+import java.io.Serializable;
 import java.util.LinkedList;
 
-public class Movie {
-
+public class Movie extends ModelBase implements Serializable {
+ 
+	private static final long serialVersionUID = 1L;
 	private String title;
 	private String summary;
 	private String url;
