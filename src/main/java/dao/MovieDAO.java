@@ -6,6 +6,6 @@ import model.Movie;
 
 
 public interface MovieDAO extends BaseDAO<Movie>{
-	public List<Movie> findByTitle(Connection con, String title);
-	public List<Movie> searchInSummary(Connection con, String search);
+	public List<Movie> findByTitle(Connection connection, String title);
+	public List<Movie> searchInSummary(Connection connection, String search);
 }

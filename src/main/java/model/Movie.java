@@ -66,7 +66,7 @@ public class Movie extends ModelBase implements Serializable {
 	}
 
 	public void setRating(int rate) {
-		if (rate > 0 && rate < 6)
+		if (rate > -1 && rate < 6)
 			rating = rate;
 		else
 			throw new IllegalArgumentException(
@@ -84,7 +84,7 @@ public class Movie extends ModelBase implements Serializable {
 	private void setSlug() {
 		slug = Helpers.slugify(getTitle());
 	}
-
+	
 	public void addTag(Tag tag) {
 		if (tag == null)
 			throw new IllegalArgumentException("Tag ist kein gŸltiges Objekt");
