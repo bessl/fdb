@@ -26,51 +26,46 @@ public class TagTest {
 
 	@Test
 	public void saveInsert() throws SQLException, ClassNotFoundException {
-		Tag t1 = new Tag("foto");
+		Tag t1 = new Tag();
+		t1.setTitle("Foto");
 		Assert.assertEquals(1, dao.save(connection, t1));
 	}
 
-	/*
 	@Test
 	public void findById() throws SQLException, ClassNotFoundException {
-		Movie m = dao.findById(connection, 1L);
-		Assert.assertEquals("Testeintrag", m.getTitle());
-		Assert.assertEquals("http://bla.at/video.flv", m.getUrl());
+		Tag t = dao.findById(connection, 1L);
+		Assert.assertEquals("Foto", t.getTitle());
 	}
-
+	
 	@Test
 	public void findAll() throws SQLException, ClassNotFoundException {
-		List<Movie> movies = dao.findAll(connection);
-		Assert.assertEquals("Testeintrag", movies.get(0).getTitle());
+		List<Tag> tags = dao.findAll(connection);
+		Assert.assertEquals("Foto", tags.get(0).getTitle());
 	}
+
 
 	@Test
-	public void searchInSummary() throws SQLException, ClassNotFoundException {
-		List<Movie> movies = dao.searchInSummary(connection, "Ich bin Text");
-		Assert.assertEquals("Testeintrag", movies.get(0).getTitle());
+	public void findBySlug() throws SQLException, ClassNotFoundException {
+		List<Tag> tags = dao.findBySlug(connection, "Foto");
+		Assert.assertEquals("Foto", tags.get(0).getTitle());
 	}
 
-	@Test
-	public void findByTitle() throws SQLException, ClassNotFoundException {
-		List<Movie> movies = dao.findByTitle(connection, "Testeintrag");
-		Assert.assertEquals("Testeintrag", movies.get(0).getTitle());
-	}
-
+	
 	@Test
 	public void saveUpdate() throws SQLException, ClassNotFoundException {
-		Movie m = dao.findById(connection, 1L);
-		m.setRating(5);
-		dao.save(connection, m);
-		Movie m2 = dao.findById(connection, 1L);
-		Assert.assertEquals("5", m2.getRating().toString());
+		Tag t = dao.findById(connection, 1L);
+		t.setTitle("Foto2");
+		dao.save(connection, t);
+		Tag t2 = dao.findById(connection, 1L);
+		Assert.assertEquals("Foto2", t2.getTitle().toString());
 	}
+	
+/*
+	 @Test public void delete() throws SQLException, ClassNotFoundException {
+	 // Datensatz mit ID 2 muss angelegt worden sein Movie m =
+	 Tag t = dao.findById(connection, 1L);
+	 Assert.assertEquals("Foto2", t.getTitle());
+	 dao.delete(connection, t); 
+	 }
 */
-
-	/*
-	 * @Test public void delete() throws SQLException, ClassNotFoundException {
-	 * // Datensatz mit ID 2 muss angelegt worden sein Movie m =
-	 * dao.findById(connection, 2L);
-	 * Assert.assertEquals("Testeintrag zum loeschen", m.getTitle());
-	 * dao.delete(connection, m); }
-	 */
 }

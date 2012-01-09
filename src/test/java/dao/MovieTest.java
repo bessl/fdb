@@ -38,6 +38,7 @@ public class MovieTest {
 
 		Assert.assertEquals(1, dao.save(connection, m1));
 		Assert.assertEquals(1, dao.save(connection, m2));
+		//TODO id, lastmodi
 	}
 
 	@Test

@@ -175,7 +175,7 @@ public class MovieDAOMySQLImpl extends AbstractDAOMySQLImpl<Movie> implements
 						.prepareStatement(SQL_SELECT_BY_SUMMARY);
 			}
 
-			selectBySummaryStmt.setString(1, search);
+			selectBySummaryStmt.setString(1, "%"+search+"%");
 			ResultSet rs = selectBySummaryStmt.executeQuery();
 
 			while (rs.next()) {
