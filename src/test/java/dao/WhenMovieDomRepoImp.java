@@ -1,4 +1,4 @@
-package repo;
+package dao;
 
 import java.io.File;
 import java.util.LinkedList;
@@ -13,7 +13,8 @@ import model.Movie;
 import org.junit.Before;
 import org.junit.Test;
 
-import repo.MovieDomRepoImpl;
+import dao.MovieDomRepoImpl;
+
 
 
 public class WhenMovieDomRepoImp {

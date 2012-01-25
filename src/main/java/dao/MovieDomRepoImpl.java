@@ -1,4 +1,4 @@
-package repo;
+package dao;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
